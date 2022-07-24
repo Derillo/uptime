@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 140,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 94,
+    "timeDay": 78,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1385,
-    "timeDay": 1503,
-    "timeWeek": 1385,
-    "timeMonth": 1385,
-    "timeYear": 1385,
+    "time": 1464,
+    "timeDay": 2013,
+    "timeWeek": 1464,
+    "timeMonth": 1464,
+    "timeYear": 1464,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/mocoroacostantinis.com.ar",
     "slug": "myc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1540,
-    "timeDay": 1693,
-    "timeWeek": 1540,
-    "timeMonth": 1540,
-    "timeYear": 1540,
+    "uptime": "94.11%",
+    "uptimeDay": "59.66%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "94.11%",
+    "time": 2015,
+    "timeDay": 3814,
+    "timeWeek": 2015,
+    "timeMonth": 2015,
+    "timeYear": 2015,
     "dailyMinutesDown": {
-      "2022-07-23": 0
+      "2022-07-24": 109,
+      "2022-07-23": 471
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2297,
-    "timeDay": 3340,
-    "timeWeek": 2297,
-    "timeMonth": 2297,
-    "timeYear": 2297,
+    "time": 2288,
+    "timeDay": 2227,
+    "timeWeek": 2288,
+    "timeMonth": 2288,
+    "timeYear": 2288,
     "dailyMinutesDown": {}
   }
 ]
